@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/JammyT/prometheus/common/expfmt"
+	"github.com/JammyT/common/expfmt"
 	"github.com/prometheus/common/model"
 	"github.com/prometheus/prometheus/pkg/labels"
 	"github.com/stretchr/testify/require"
